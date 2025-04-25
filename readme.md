@@ -30,7 +30,7 @@ This is a JavaFX application that allows users to input three numbers and find o
 - الرسائل تظهر باللون الأخضر إذا كانت الإدخالات صحيحة وباللون الأحمر في حالة وجود خطأ.
 
 ## صورة من التطبيق
-![app-screenshot](./screenshot.png)
+[![app-screenshot](./screenshot.png)](https://drive.google.com/file/d/1qWSmPxlLDoC7QM2jGmE7xjctb7Ogr1FJ/view?usp=sharing)
 
 ## الترخيص
 - هذا التطبيق مفتوح المصدر.
